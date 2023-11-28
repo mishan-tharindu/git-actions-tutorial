@@ -17,6 +17,8 @@ public class Main {
 
             System.out.println("This is new Line");
 
+            System.out.println("This is the next new line");
+
         }
     }
 }
