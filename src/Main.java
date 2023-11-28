@@ -20,5 +20,12 @@ public class Main {
             System.out.println("This is the next new line");
 
         }
+
+        mishanTest();
+    }
+
+    public static void mishanTest()
+    {
+        System.out.println("Mishan Test Methode");
     }
 }
